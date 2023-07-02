@@ -1,0 +1,47 @@
+{
+    "ball1": {
+        "ball1.hit": 2,
+        "ball1.x": 308.0,
+        "ball1.xIncreamentor": -6,
+        "ball1.y": 203.0,
+        "ball1.yIncreamentor": 6
+    },
+    "ball2": {
+        "ball2.hit": 2,
+        "ball2.x": 428.0,
+        "ball2.xIncreamentor": -6,
+        "ball2.y": 241.0,
+        "ball2.yIncreamentor": -6
+    },
+    "line": {
+        "line.x1": 47.0,
+        "line.x2": 0,
+        "line.y1": 541.0,
+        "line.y2": 0
+    },
+    "musicVolume": 20,
+    "player1": {
+        "player1.playerName": "Mahdi",
+        "player1.playerScore": -6,
+        "player1.winner": false
+    },
+    "player2": {
+        "player2.playerName": "Amir",
+        "player2.playerScore": 18,
+        "player2.winner": false
+    },
+    "printWinner": false,
+    "projectile": {
+        "projectile.ax": 0.0,
+        "projectile.ay": 2.0,
+        "projectile.vx": 31.479174913850166,
+        "projectile.vy": 9.153358616950861,
+        "projectile.x": 802.5001979324044,
+        "projectile.y": 160.68060680682083
+    },
+    "score": 50,
+    "shoot": false,
+    "speed": 2,
+    "touchTheWall": false,
+    "turn": 0
+}
